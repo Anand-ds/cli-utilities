@@ -32,6 +32,10 @@ cli-utilities
 └── tools/
     ├── calculator.py
     ├── todo.py
+
+## How to run
+```bash
+python main.py
 └── data/
      ├── todos.txt
 README.md    
